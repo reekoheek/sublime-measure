@@ -1,0 +1,16 @@
+[
+    {
+        "caption": "Preferences: Measure Settings – Default",
+        "command": "open_file",
+        "args": {
+            "file": "${packages}/Measure/Measure.sublime-settings"
+        }
+    },
+    {
+        "caption": "Preferences: Measure Settings – User",
+        "command": "open_file",
+        "args": {
+            "file": "${packages}/User/Measure.sublime-settings"
+        }
+    }
+]
